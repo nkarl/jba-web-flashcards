@@ -1,0 +1,23 @@
+/* determine the margin and padding of some elements */
+.quiz_area {
+    margin: 2vmin;
+    padding: 0.5vmin 2vmin;
+}
+
+/* dictates the dimensionality of flashcard */
+div {
+    margin: 2vmin;
+    padding: 0.5vmin 2vmin;
+    border: 0.3vmin outset;
+    /*background: deepskyblue;*/
+    background-clip: padding-box;
+}
+
+p {
+    font-size: larger;
+}
+
+.container {
+    background-size: 200px 200px;
+    background-repeat: no-repeat;
+}
